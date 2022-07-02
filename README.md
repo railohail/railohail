@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @railohail
-- 👀 I’m interested in ... machine learning and information
+- 👀 I’m interested in ... machine learning
 - 🌱 I’m currently learning... c++ and python 
 - 📫 How to reach me ... chohsin2001@gmail.com
 -Student of National Taipei University Information Technology 
