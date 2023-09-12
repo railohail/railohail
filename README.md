@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @railohail
-- 👀 I’m interested in ... machine learning
-- 🌱 I’m currently learning... c++ and python 
+- 👀 I’m interested in ... machine learning web dev
 - 📫 How to reach me ... chohsin2001@gmail.com
 - Twtter:https://twitter.com/railohail
 -Student of National Taipei University Information Technology 
