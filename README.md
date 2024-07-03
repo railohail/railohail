@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @railohail
 - 📫 How to reach me ... chohsin2001@gmail.com
-- Twtter:https://twitter.com/railohail
+- Twtter ... https://twitter.com/railohail
 -Student of National Taipei University Information Technology 
 <!---
 railohail/railohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
