@@ -5,7 +5,7 @@
 - Student of National Taipei University Information Technology
 - internshipes:\
   .Taipei-Academia Sinica GIS \
-  .Taipei First Bank\
+  .Taipei First Bank
 <!---
 railohail/railohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
